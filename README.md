@@ -1,5 +1,3 @@
-# PrepOCAexam
-Labs
 package com.oca.testing;
 
 import com.oca.utils.MyDate;
