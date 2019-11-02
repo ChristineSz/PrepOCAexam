@@ -8,7 +8,7 @@ My Labs for OCA exam Preparation
  
  Lab 03-Understanding Static variable -create OrderClass and TestOrder class
  
- Lab 04-Packages-create packages-add classes to the packages
+ Lab 04-Packages-create the packages: com.oca.domain,com.oca.testing,com.oca.utils
 
  
  
