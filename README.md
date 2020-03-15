@@ -14,3 +14,5 @@ My Labs for OCA exam Preparation
  
  Lab 06-Encapsulation -Encapsulate the fields of MyDate class
  
+ Lab 07-Inharitance-Create the classes :Good,Solid,Liquid and TestGoods
+ 
