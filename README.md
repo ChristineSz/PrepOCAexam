@@ -12,3 +12,5 @@ My Labs for OCA exam Preparation
 
  Lab 05-Primitives-create the ConversinService class and TestConversinService class
  
+ Lab 06-Encapsulation -Encapsulate the fields of MyDate class
+ 
