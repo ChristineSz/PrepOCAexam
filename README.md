@@ -16,3 +16,9 @@ My Labs for OCA exam Preparation
  
  Lab 07-Inharitance-Create the classes :Good,Solid,Liquid and TestGoods
  
+ Lab 08-Polymorphism-Updated TestOrder class to create and use an instance of a Good for a product field of an Order rather than a String
+                    -Tested the new Order class with associated Good products by running TestOrder class
+                    -Polymorphism allows any specific object(Solid or Liquid) to be used in a general reference (Good in this case)
+                    
+                    
+ 
